@@ -1,2 +1,3 @@
 # hello-world
 Ideas, resources, contacts, etc...
+This is my first time using Github. I'll be working on some coding challenges through Free Code Camp and Dev Point.
